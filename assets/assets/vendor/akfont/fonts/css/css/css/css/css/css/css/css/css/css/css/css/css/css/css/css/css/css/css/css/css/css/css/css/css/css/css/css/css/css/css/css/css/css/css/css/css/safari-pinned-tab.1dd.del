@@ -6,11 +6,11 @@
 <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 <head>
     <meta charset="utf-8">
-    <title>Nutz | 404 Page</title>
+    <title>BeliveItTech | 404 Page</title>
     <!-- SEO Meta Tags-->
-    <meta name="description" content="Nutz - Making Sense">
-    <meta name="author" content="Nutz" />
-    <meta name="keywords" content="Nutz is one of the best Website design firms in India. We focus on Graphic design, App development, SEO, SMM services, and more.">
+    <meta name="description" content="BeliveItTech - Making Sense">
+    <meta name="author" content="BeliveItTech" />
+    <meta name="keywords" content="BeliveItTech is one of the best Website design firms in India. We focus on Graphic design, App development, SEO, SMM services, and more.">
     <meta name="keywords" content="Web design and development company near me, Web development company in India, Graphic design company near me, Graphic designers in India, Graphic designer in India, Mobile App development in India, Mobile App development company near me, Mobile App Development Services, Logo designing companies in India, Logo makers in India, Business Logos, Logo designers, Logo makers, Business card design, Free logo makers, Visiting card design, Free business card makers, SEO services in India" />
     <!-- Viewport-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
